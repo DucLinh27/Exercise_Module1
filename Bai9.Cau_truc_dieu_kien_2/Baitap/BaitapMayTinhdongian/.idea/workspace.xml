@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac2ecf61-a348-44a0-b0ed-fafe87b98ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/baitap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/baitap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/baitap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="25669422-4492-42c5-b541-7ce5b6b784a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/sfs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap_Switch-case/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap_Tinhchisocannangcuacothe/baitap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1os9pfPzENQJ6iBKgt5ak0EGGZL" />
+  <component name="ProjectId" id="1p162K1DMzsBLBCu2amsf8Dgkg3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap_Switch-case" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,31 +47,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\TranDucLinh\Module1\Bai7.Bien_Kieudulieu_ToanTu\BaiTap\BaiTap_Ung_dung_may_tinh" />
+      <recent name="D:\TranDucLinh\Module1\Bai9.Cau_truc_dieu_kien_2\Baitap\BaitapMayTinhdongian" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ac2ecf61-a348-44a0-b0ed-fafe87b98ec8" name="Default Changelist" comment="" />
-      <created>1614064614538</created>
+      <changelist id="25669422-4492-42c5-b541-7ce5b6b784a9" name="Default Changelist" comment="" />
+      <created>1614338041011</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614064614538</updated>
-      <workItem from="1614064615650" duration="398000" />
-      <workItem from="1614065433954" duration="634000" />
-      <workItem from="1614092728882" duration="386000" />
-      <workItem from="1614158657029" duration="1228000" />
-      <workItem from="1614162886256" duration="1114000" />
-      <workItem from="1614164905318" duration="1220000" />
-      <workItem from="1614166718943" duration="1800000" />
-      <workItem from="1614168866264" duration="99000" />
-      <workItem from="1614169264831" duration="872000" />
-      <workItem from="1614175339935" duration="599000" />
-      <workItem from="1614221033705" duration="596000" />
-      <workItem from="1614335384876" duration="46000" />
-      <workItem from="1614337236672" duration="355000" />
-      <workItem from="1614339102660" duration="1450000" />
+      <updated>1614338041011</updated>
+      <workItem from="1614338042158" duration="937000" />
+      <workItem from="1614338995796" duration="1790000" />
+      <workItem from="1614340803272" duration="782000" />
+      <workItem from="1614345924514" duration="1868000" />
+      <workItem from="1614347930989" duration="15000" />
+      <workItem from="1614348373884" duration="116000" />
+      <workItem from="1614596100970" duration="285000" />
     </task>
     <servers />
   </component>

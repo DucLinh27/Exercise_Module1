@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+    <table border="1" >
+        <tr>
+            <td colspan="4" style="text-align: center"><input name="bang" type="text" id="bang" ></td>
+        </tr>
+        <tr>
+            <td><button type="button" onclick="so(1)"; style="background-color: white" >1</button> </td>
+            <td><button type="button" onclick="so(2)"; style="background-color: white">2</button> </td>
+            <td><button type="button" onclick="so(3)"; style="background-color: white">3</button> </td>
+            <td><button type="button" onclick="so('+')"; style="background-color: white">+</button> </td>
+        </tr>
+        <tr>
+            <td><button type="button" onclick="so(4)"; style="background-color: white">4</button> </td>
+            <td><button type="button" onclick="so(5)"; style="background-color: white">5</button> </td>
+            <td><button type="button" onclick="so(6)"; style="background-color: white">6</button> </td>
+            <td><button type="button" onclick="so('-')"; style="background-color: white">-</button> </td>
+        </tr>
+        <tr>
+            <td><button type="button" onclick="so(7)"; style="background-color: white">7</button> </td>
+            <td><button type="button" onclick="so(8)"; style="background-color: white">8</button> </td>
+            <td><button type="button" onclick="so(9)"; style="background-color: white">9</button> </td>
+            <td><button type="button" onclick="so('*')"; style="background-color: white">*</button> </td>
+        </tr>
+        <tr>
+            <td><button type="button" onclick="document.getElementById('bang').value = ''"; style="background-color: white">C</button> </td>
+            <td><button type="button" onclick="so(0)"; style="background-color: white">0</button> </td>
+            <td><button type="button" onclick="document.getElementById('bang').value= eval(document.getElementById('bang').value)"; style="background-color: white">=</button> </td>
+            <td><button type="button" onclick="so('/')"; style="background-color: white">/</button> </td>
+        </tr>
+    </table>
+    <script>
+        function so(temp){
+
+            document.getElementById("bang").value = document.getElementById("bang").value + temp;
+            // var b = eval("");
+            /*var x = eval("so()");*/
+        }
+    </script>
+</form>
+</body>
+</html>
