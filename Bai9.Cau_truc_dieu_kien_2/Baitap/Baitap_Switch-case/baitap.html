@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td style="text-align: center;"><input name="songay" type="text" id="day"></td>
+        <br>
+        <th>
+            <button type="button" onclick="month()" ; style="background-color: deepskyblue">Tinh so ngay</button>
+        </th>
+    </tr>
+</table>
+<script>
+    function month() {
+        let day = document.getElementById("day").value * 1;
+        let month =0;
+        // alert(month())
+        switch (day) {
+            case 1:
+                month = ("Tháng 1 có 31 ngày")
+                break;
+            case 2:
+                month = "Tháng 2 có 28 hoặc 29 ngày"
+                break;
+            case 3:
+                month = "Tháng 3 có 31 ngày"
+                break;
+            case 4:
+                month = "Tháng 4 có 30 ngày"
+                break;
+            case 5:
+                month = "Tháng 5 có 31 ngày"
+                break;
+            case 6:
+                month = "Tháng 6 có 30ngày"
+                break;
+            case 7:
+                month = "Tháng 7 có 31 ngày"
+                break;
+            case 8:
+                month = "Tháng 8 có 30 ngày"
+                break;
+            case 9:
+                month = "Tháng 9 có 31 ngày"
+                break;
+            case 10:
+                month = "Tháng 10 có 30 ngày"
+                break;
+            case 11:
+                month = "Tháng 11 có 31 ngày"
+                break;
+            case 12:
+                month = "Tháng 12 có 30 ngày"
+                break;
+        }
+        alert(month)
+    }
+
+</script>
+
+
+</body>
+</html>

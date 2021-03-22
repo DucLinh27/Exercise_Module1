@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+    <table>
+        <tr>
+            <th style="width: 30%">Amount</th>
+            <th style="width: 30%">From Currency</th>
+            <th style="width: 30%">To Currency</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td style="text-align: center"><input name="tien" type="text" id="money"></td>
+            <td style="text-align: center"><select name="currency" id="fromCurrency">
+                <option value="VND">VietNam</option>
+                <option value="USD">USA</option>
+                <option value="EURO">EURO</option>
+                <option value="Bảng Anh">ANH</option>
+            </select></td>
+            <td style="text-align: center"><select name="toCurrency" id="toCurrency">
+                <option>VietNam</option>
+                <option>USA</option>
+                <option>EURO</option>
+                <option>ANH</option>
+            </select></td>
+            <td><button type="button" onclick="result()"; style="background-color: deepskyblue">Covert</button></td>
+        </tr>
+    </table>
+        <p style="color: blue">Result:</p>
+    <script>
+        function result() {
+            let money = document.getElementById("money").value;
+            let FromCurrency = document.getElementById("fromCurrency").value;
+            let ToCurrency = document.getElementById("toCurrency").value;
+            alert(money);
+            alert(FromCurrency);
+        }
+    </script>
+
+
+</form>
+</body>
+</html>
