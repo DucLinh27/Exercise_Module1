@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function giaiThua(n) {
+        if (n == 1)
+            return 1;
+        return n * giaiThua(n - 1);
+
+
+    }
+
+    let n = prompt("Nhapso:")
+    alert("Giai thua cua"+" "+n+" "+"la: "+giaiThua(n))
+   giaiThua(n)
+</script>
+</body>
+</html>

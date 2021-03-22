@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+     for (i = 0; i < 10; i++) {
+         for (j = 0; j < i; j++) {
+             if (j == 0 || i == 9 || j == i - 1) {
+                 document.writeln("*")
+             } else {
+                 document.write("&nbsp;&nbsp;")
+             }
+        }
+        document.writeln("<br/>")
+     }
+</script>
+
 </body>
 </html>

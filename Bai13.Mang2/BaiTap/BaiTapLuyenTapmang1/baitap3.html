@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = []
+    let TB =0;
+    let max = [0];
+
+    for (let i=0;i <= 3;i++){
+        a[i]=parseInt(prompt("Nhapso"))
+        if ((a[i]) >= max ) {
+            max =a[i];
+
+        }
+
+    }
+    for (let i= 0; i< a.length; i++){
+        TB += a[i]
+
+    }
+    TB = TB/a.length;
+    document.write("MAX :"+ max+"<br>")
+    document.write("GTTB"+TB)
+
+</script>
+</body>
+</html>

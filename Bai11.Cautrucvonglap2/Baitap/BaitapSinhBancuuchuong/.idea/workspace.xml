@@ -2,13 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f392a613-1db0-454a-8f58-435ba32b214a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/baitap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/baitap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/baitap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaitapHienthicacsonguyentodautien" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +72,10 @@
       <option name="presentableId" value="Default" />
       <updated>1614347945672</updated>
       <workItem from="1614347946922" duration="541000" />
-      <workItem from="1614596102810" duration="928000" />
+      <workItem from="1614596102810" duration="1341000" />
+      <workItem from="1614601288210" duration="162000" />
+      <workItem from="1614605791437" duration="2562000" />
+      <workItem from="1614767643302" duration="103000" />
     </task>
     <servers />
   </component>

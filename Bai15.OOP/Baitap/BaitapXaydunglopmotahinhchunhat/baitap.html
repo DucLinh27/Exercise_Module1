@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Rectangle {
+        constructor(chieudai, chieurong) {
+            this.chieudai = chieudai;
+            this.chieurong = chieurong;
+        }
+        getDientich(){
+            return this.chieudai*this.chieurong;
+        }
+        getChuvi(){
+            return (this.chieurong+this.chieudai)*2;
+        }
+    }
+     let a = new Rectangle(8,5);
+    alert("Dientich:"+ a.getDientich())
+    alert("Chuvi :"+ a.getChuvi())
+
+</script>
+</body>
+</html>

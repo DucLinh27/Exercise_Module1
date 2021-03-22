@@ -1,10 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+    var a = 0;
+    var b = 1;
+    var c = prompt("Nhapso");
+    for (let i= 0; i <20;i++){
+        c=a+b;
+        alert(c)
+        a=b;
+        b=c;
+        if(c %= 5){
+            alert("khong chia het cho 5")
+        } else {
+            alert("chia het cho 5")
+            break;
+        }
+    }
+</script>
 </body>
 </html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Temperature{
+        constructor(C,F) {
+            this.C = C;
+            this.F = F;
+        }
+        getCsangF(){
+           return 9/5*this.C + 32;
+        }
+        getFsangK(){
+            return this.F - 32;
+        }
+    }
+    let a = new Temperature(25)
+    alert("CsangF: "+ a.getCsangF())
+    alert("FsangK: "+ (a.getCsangF()-32))
+</script>
+</body>
+</html>

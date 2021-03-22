@@ -2,30 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e29d283-b61b-4f26-a1b2-9cf714da08aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap Tạo Form Cơ Bản1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/BaiTapForm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/Baitap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoBangNangCao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoBangNangCao2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoFormNangCao1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaoBangDongian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaoBangDongian1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaoFormCoBan22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaogiaodienFormdangkinguoidung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/Taoformcoban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/Thực Hành Tạo Form tìm kiếm GOOGLE.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/cf2c3c51aaece5c3398cb698e7cd44d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/download.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapLuyenTapmang1/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapLuyenTapmang1/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapLuyenTapmang1/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapLuyenTapmang1/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapLuyenTapmang1/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapLuyenTapmang1/baitap5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapSuDungcachamcosan/BaiTap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapSuDungcachamcosan/Baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaiTapSuDungcachamcosan/Baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaitapLuyentapmang2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaitapLuyentapmang2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/BaitapLuyentapmang2/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai14.Ham/BaiTap/BaiTapChuyendoigiuaFeetvametter/Baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bai14.Ham/BaiTap/BaiTapHamKiemtrasonguyento/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BaiTaphuongdan/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/Baitap/Yeucau3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapHienthicacsonguyentodautien/baitap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapHienthicacsonguyentodautien/baitap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/Bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/baitap4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/Thuchanh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/Thuchanh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh5].html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh5].html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/baitap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/baitap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptudien/baitap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptudien/baitap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Casestudy/Baitap/Yeucau1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Casestudy/Baitap/Yeucau1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Casestudy/Baitap/Yeucau2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Casestudy/Baitap/Yeucau2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +113,7 @@
       <workItem from="1614163037755" duration="106000" />
       <workItem from="1614163295093" duration="633000" />
       <workItem from="1614164904484" duration="3000" />
+      <workItem from="1615980591819" duration="7000" />
     </task>
     <servers />
   </component>

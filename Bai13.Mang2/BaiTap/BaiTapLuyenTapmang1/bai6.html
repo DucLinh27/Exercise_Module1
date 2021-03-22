@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = []
+    let V = parseInt(prompt("NhapsoV"))
+    temp = false;
+    for(let i =0; i <= 3; i++) {
+        a[i] = parseInt(prompt("Nhapso:"))
+        if (a[i] == V){
+            temp = true;
+        }
+    }
+    if (temp == true){
+        document.write(V +"is in array"+"<br>")
+    } else if (temp == false){
+        document.write(V +"is not in array")
+    }
+
+
+
+
+
+</script>
+</body>
+</html>

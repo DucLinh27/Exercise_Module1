@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function kiemtra(a) {
+        if(a>0 && (a - Math.floor(a) === 0)){
+            return true;
+        }else {
+            return false;
+        }
+    }
+    let a = Number(prompt("Nhap so: "))
+    let check = kiemtra(a)
+    alert(check)
+</script>

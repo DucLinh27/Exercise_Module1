@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="game"></p>
+<script>
+    function Hero(image, top, left, size, right){
+        this.image = image;
+        this.top = top;
+        this.left = left;
+        this.size = size;
+        this.right = right;
+
+        this.getHeroElement = function(){
+            return '<img width="10%"' +
+                ' height="10%"' +
+                ' src="' + this.image +'"'+
+                ' style="top: '+this.top+'px; left:'+this.left+'px;position:absolute;" />';
+        }
+
+        this.moveRight = function(){
+            this.left += 100;
+            console.log('ok: ' + this.left);
+        }
+        this.moveDown = function(){
+            this.top += 100;
+            console.log('ok: ' + this.top);
+        }
+        this.moveleft = function(){
+            this.right += 100;
+            console.log('ok: ' + this.right);
+        }
+
+    }
+
+    var hero = new Hero('hinh-xam-pikachu-nho-de-thuong.jpg', 20, 30, 200);
+
+    function start(){
+        let width = window.innerWidth
+        let height = window.innerHeight
+        if(hero.left < width- 3*hero.size){
+            hero.moveRight();
+        }else if(hero.top < height - hero.size){
+            hero.moveDown()
+        } else if(hero.right < window.innerWidth - hero.size){
+            hero.moveleft()
+        }
+        document.getElementById('game').innerHTML = hero.getHeroElement();
+        setTimeout(start, 500)
+    }
+
+    start();
+</script>
+</body>
+</html>

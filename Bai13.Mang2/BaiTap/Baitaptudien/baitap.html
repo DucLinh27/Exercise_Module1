@@ -1,10 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<center>English&Vietnamese's Dictionary</center>
+<br>
+<form>
+    English:<input type="text" id="englishworld"> &nbsp;
+    <input type="button" onclick="translatetovietnamese()" value="Translate">
+</form>
+<script>
+    function translatetovietnamese() {
+        let a, b;
+        let temp = (document.getElementById("englishworld").value);
+        a = ["monkey", "cat", "dog", "shark", "crab", "mouse", "cow", "buffalo", "fish", "bird"]
+        b = ["con khi", "con meo", "con cho", "ca map", "con cua", "con chuot", "con bo", "con trau", "con ca", "con chim"]
+        for (let i = 0; i < a.length; i++) {
+            if (temp == a[i]) {
+                document.getElementById("traslatetovietnamese").innerText= b[i];
+                break;}}}
+</script>
+<br>
+<h3 id="traslatetovietnamese"></h3>
 </body>
 </html>

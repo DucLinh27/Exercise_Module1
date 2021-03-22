@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<form>
+
+    <td style="text-align: center"><input name="tien" type="text" id="footToMeter">Foot</td> <br><br>
+    <td style="text-align: center"><input name="tien" type="text" id="meterToFoot">Meter</td>
+</form>-->
+<script>
+    function covert(value, temp) {
+        if(temp == true) {
+        } else if(temp = false) {
+        }
+
+    }
+
+    let choose = parseInt(prompt("1.ChuyendoiFootsangMeter" + "\n" +
+        "2.ChuyendoiMetersangFoot"))
+    switch (choose) {
+        case 1: {
+            let Foot = prompt("Nhap Foot:");
+            covert(Foot, true)
+            alert("Meter="+3.279*Foot)
+            break;
+        }
+        case 2: {
+            let Meter = prompt("Nhap Meter:");
+            covert(Meter, false)
+            alert("Foot="+0.305*Meter)
+            break;
+        }
+    }
+</script>
+</body>
+</html>
