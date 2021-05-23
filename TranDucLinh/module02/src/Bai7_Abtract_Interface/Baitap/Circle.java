@@ -36,7 +36,7 @@ public  class Circle extends Shape implements Colorable{
     }
 
     @Override
-    public void howToColor() {
-        System.out.println("hình tròn : tô hết vòng trong");
+    public void howToColor(String color) {
+        System.out.println(this.getColor());
     }
 }

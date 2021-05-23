@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Bai8/CleanCode_Refactoring/Baitap/BT_Refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Bai8/CleanCode_Refactoring/Thuchanh/java-cleancode-refactoring-renaming" vcs="Git" />
   </component>
 </project>
