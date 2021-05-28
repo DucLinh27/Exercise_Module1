@@ -2,6 +2,21 @@ package Bai9.List.Baitap.LinkedList;
 
 
 public class MyLinkedList<E> {
+    public class Node {
+        Node next;
+        Object data;
+
+        public Node() {
+        }
+
+        public Node(Object data) {
+            this.data = data;
+        }
+
+        public Object getData() {
+            return data;
+        }
+    }
     private Node head = null;
     private int numNodes;
 
@@ -58,7 +73,7 @@ public class MyLinkedList<E> {
 
     public void remove(int index) {
         Node temp = head;
-        for (int i = 0; i < index - 1; i++) {
+        for (int i = 0; i < index - 1 && temp.next != null; i++) {
             temp = temp.next;
         }
 
