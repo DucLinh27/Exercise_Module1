@@ -1,7 +1,5 @@
 package Bai4.LopvaObject.Baitap;
 
-import java.util.Scanner;
-
 public class XaydunglopFan {
      private final int slow = 1;
      private final int medium = 2;
