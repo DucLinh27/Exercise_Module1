@@ -36,5 +36,6 @@ from orders
 inner join products_have_orders on orders.orderNumber = products_have_orders.orderNumber
 where status = 'shipped'
 group by year
-having year > 2003
+having year > 2003;
+
 
