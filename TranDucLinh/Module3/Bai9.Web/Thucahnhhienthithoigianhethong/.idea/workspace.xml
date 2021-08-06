@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7da91ca6-dd6d-4c35-8102-f8a571ca52bd" name="Default Changelist" comment="">
+    <list default="true" id="bba6cb3e-2096-4994-aadd-a1470d6d81fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Bai6.CSS/Thuchanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai6.CSS/Thuchanh/.idea/Thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai6.CSS/Thuchanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai6.CSS/Thuchanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai6.CSS/Thuchanh/Demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai6.CSS/Thuchanh/Demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/.idea/Baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/5487873bbf557ad2dfd13cd61575a88f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/Cap2ture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/Capture.PNG" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/Facebook.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/Facebook.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/TaoLayout.css" afterDir="false" />
@@ -12,6 +25,13 @@
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/Taotrangdoctruyen.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/Trangxemphimhoathinh.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/Trangxemphimhoathinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/anh-doremon-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/bbi0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Baitap/demobo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/.idea/Thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/Header_Fixder.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/RWDwithDIV.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/RWDwithDIV.html" afterDir="false" />
@@ -24,9 +44,20 @@
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/main.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/menu.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai7.Bocuctrangweb/Thuchanh/useBoxModel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Baitap/TaoGallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Baitap/XaydungLangdingPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Baitap/XaydungLangdingPage.html.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/.idea/Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/.idea/Thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/Capture.PNG" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/DemoB.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/TaoLayouttrongBootstrap.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bai8.Bootstrap/Thuchanh/TaoLayouttrongBootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CasestudyFurama/CasestudyMySQL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simple_login/web/WEB-INF/index2.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../BTclb2/BTclb2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapHienthicacsonguyentodautien/baitap.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai3.html" beforeDir="false" />
@@ -167,8 +198,8 @@
       <change beforePath="$PROJECT_DIR$/../../../FuramaResort/src/models/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FuramaResort/src/models/Villa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module2/src/baitap1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaotrangdocTruyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaotrangdocTruyen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai6.CSS/Baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai6.CSS/Baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai6.CSS/Baitap/TaotrangdocTruyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai6.CSS/Baitap/TaotrangdocTruyen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CasestudyFurama/CasestudyFurama.sql" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java-cleancode-refactoring-exercise/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java-cleancode-refactoring-method-extraction/.idea/workspace.xml" beforeDir="false" />
@@ -226,70 +257,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../" />
   </component>
-  <component name="ProjectId" id="1viQe9ahVJP1Rxbp8XgbffQi0oz" />
+  <component name="ProjectId" id="1wM4uW4g6bJKRYyq2vUB2cMMPlp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\TranDucLinh\Module3\Bai6.CSS\Baitap" />
-    </key>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7da91ca6-dd6d-4c35-8102-f8a571ca52bd" name="Default Changelist" comment="" />
-      <created>1627042522177</created>
+      <changelist id="bba6cb3e-2096-4994-aadd-a1470d6d81fc" name="Default Changelist" comment="" />
+      <created>1628255346502</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1627042522177</updated>
-      <workItem from="1627042523355" duration="9058000" />
-      <workItem from="1627640922174" duration="463000" />
+      <updated>1628255346502</updated>
+      <workItem from="1628255347650" duration="3000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
